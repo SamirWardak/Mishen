@@ -1,0 +1,10 @@
+C:\Users\Samir\Downloads\Compressed\Target1\obj\Debug\Target.csprojAssemblyReference.cache
+C:\Users\Samir\Downloads\Compressed\Target1\obj\Debug\Target.Form1.resources
+C:\Users\Samir\Downloads\Compressed\Target1\obj\Debug\Target.Properties.Resources.resources
+C:\Users\Samir\Downloads\Compressed\Target1\obj\Debug\Target.csproj.GenerateResource.cache
+C:\Users\Samir\Downloads\Compressed\Target1\obj\Debug\Target.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Downloads\Compressed\Target1\bin\Debug\Target.exe.config
+C:\Users\Samir\Downloads\Compressed\Target1\bin\Debug\Target.exe
+C:\Users\Samir\Downloads\Compressed\Target1\bin\Debug\Target.pdb
+C:\Users\Samir\Downloads\Compressed\Target1\obj\Debug\Target.exe
+C:\Users\Samir\Downloads\Compressed\Target1\obj\Debug\Target.pdb
